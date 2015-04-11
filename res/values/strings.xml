@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Tongue Twister Teacher"</string>
+
+    <!-- For Menu -->
+    <string name="text_menu_language">"LANGUAGE"</string>
+    <string name="text_menu_level">"LEVEL"</string>
+    <string name="text_menu_dataReset">"DATA RESET"</string>
+    <string name="text_menu_info">"INFO"</string>
+
+    <string name="text_menu_language_US">"United States"</string>
+    <string name="text_menu_language_UK">"Britain"</string>
+    <string name="text_menu_language_CA">"Canada"</string>
+    <string name="text_menu_language_GE">"General"</string>
+
+    <string name="text_menu_level_HARD">"HARD"</string>
+    <string name="text_menu_level_NORMAL">"NORMAL"</string>
+    <string name="text_menu_level_EASY">"EASY"</string>
+
+    <string name="text_info_detail" >
+        <line>"Tongue Twister Teacher\n"</line>
+        <line>"Version 1.0.0"</line>
+    </string>
+
+
+    <!-- For Speaking Activity -->
+    <string name="text_speaking_memo">
+        <line>"NOTE:\n"</line>
+        <line>" + Tap the START button to check your speaking, and please wait till it becomes green.\n"</line>
+        <line>" + Count starts automatically when you speak.\n"</line>
+        <line>" + You can change the text size using the seekbar.\n"</line>
+    </string>
+
+    <string name="text_speaking_button_START">"START"</string>
+    <string name="text_speaking_button_WAIT">"PLEASE WAIT"</string>
+    <string name="text_speaking_button_SPEAK">"PLEASE SPEAK"</string>
+    <string name="text_speaking_button_SPEAKING">"SPEAKING"</string>
+    <string name="text_speaking_button_JUDGING">"JUDGING"</string>
+
+
+
+</resources>

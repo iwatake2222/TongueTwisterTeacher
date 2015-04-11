@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strList_language">
+        <item>@string/text_menu_language_US</item>
+        <item>@string/text_menu_language_UK</item>
+        <item>@string/text_menu_language_CA</item>
+        <item>@string/text_menu_language_GE</item>
+    </string-array>
+
+    <string-array name="strList_level">
+        <item>@string/text_menu_level_HARD</item>
+        <item>@string/text_menu_level_NORMAL</item>
+        <item>@string/text_menu_level_EASY</item>
+    </string-array>
+
+</resources>
