@@ -61,8 +61,5 @@ public class Sentence implements Serializable {
     public void setRecord(Float record) {
         this.m_record = record;
     }
-
-
-
-
 }
+
